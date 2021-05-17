@@ -60,6 +60,21 @@ I'm a Mobile app developer, UX designer and cloud  enthusiast. I'm in 3rd year o
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
 <br />
 
+<div align="center">
+
+<a href="mailto:supreet.venkata@gmail.com">![supreet.venkata@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/supreeth-venkata-36b122168/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/supreeth-venkata-36b122168/>">![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)</a>
+
+![](https://komarev.com/ghpvc/?username=supreeth1816&color=grey)
+
+
+
+
+
+</div>
+
+
 
 
 
