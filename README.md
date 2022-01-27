@@ -9,7 +9,7 @@
 
 
 <h5 align="center">
-I'm a Mobile app developer, UX designer and cloud  enthusiast. I'm in 3rd year of study pursuing BTech(IT) at VIT, Vellore. <br /> I am currently focusing on enhancing my technical skills.
+I'm a UX/UI designer and app developer. I'm in 4th year of study pursuing BTech(IT) at VIT, Vellore. <br /> I am currently focusing on enhancing my technical skills.
  
  
  <br /> <br /> 
